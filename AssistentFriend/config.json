@@ -1,0 +1,7 @@
+{
+    "model": "DeepSeek",
+    "url": "https://api.deepseek.com/chat/completions",
+    "key": "sk-71f58bfc232743b4983abe6215a29038",
+    "character": "Kira",
+    "voice": "Голосов нет (текст пойдет в облачко)"
+}
